@@ -1,5 +1,5 @@
 const a=()=>{
-    console.log("aaa")
+    console.log("Hi")
     console.log("bbb")
 
 }
